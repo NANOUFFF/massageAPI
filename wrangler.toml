@@ -1,0 +1,7 @@
+name = "message-board-admin"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "message_board"
+database_id = "0113574c-7e80-4384-b35f-794ed6d9548c"

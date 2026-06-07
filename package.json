@@ -1,0 +1,12 @@
+{
+  "name": "message-board-admin",
+  "version": "1.0.0",
+  "description": "留言板管理后台 - Cloudflare Pages",
+  "scripts": {
+    "deploy": "wrangler pages deploy src",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
